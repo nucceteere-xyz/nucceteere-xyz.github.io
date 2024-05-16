@@ -9,7 +9,8 @@
  font-style: normal;
  font-variant: normal;
  text-transform: none;
+ text-align: center;
 }
-{
+body {
  background: #633CBF
 }
